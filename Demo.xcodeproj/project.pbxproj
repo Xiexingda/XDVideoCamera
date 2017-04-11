@@ -14,13 +14,13 @@
 		8EBE783B1E9CAB1E00BEF31C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EBE78391E9CAB1E00BEF31C /* LaunchScreen.storyboard */; };
 		8EBE78461E9CAB1E00BEF31C /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78451E9CAB1E00BEF31C /* DemoTests.m */; };
 		8EBE78511E9CAB1E00BEF31C /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78501E9CAB1E00BEF31C /* DemoUITests.m */; };
-		8EBE78791E9CAE0B00BEF31C /* SelectImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE786C1E9CAE0B00BEF31C /* SelectImageView.m */; };
-		8EBE787A1E9CAE0B00BEF31C /* SelectLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE786E1E9CAE0B00BEF31C /* SelectLabel.m */; };
-		8EBE787B1E9CAE0B00BEF31C /* SelectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78701E9CAE0B00BEF31C /* SelectView.m */; };
-		8EBE787C1E9CAE0B00BEF31C /* StoreFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78721E9CAE0B00BEF31C /* StoreFileManager.m */; };
-		8EBE787D1E9CAE0B00BEF31C /* VideoUI.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78741E9CAE0B00BEF31C /* VideoUI.m */; };
-		8EBE787E1E9CAE0B00BEF31C /* XDVideocamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78761E9CAE0B00BEF31C /* XDVideocamera.m */; };
-		8EBE787F1E9CAE0B00BEF31C /* XDVideoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78781E9CAE0B00BEF31C /* XDVideoManager.m */; };
+		8EBE78981E9CC79700BEF31C /* SelectImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE788B1E9CC79700BEF31C /* SelectImageView.m */; };
+		8EBE78991E9CC79700BEF31C /* SelectLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE788D1E9CC79700BEF31C /* SelectLabel.m */; };
+		8EBE789A1E9CC79700BEF31C /* SelectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE788F1E9CC79700BEF31C /* SelectView.m */; };
+		8EBE789B1E9CC79700BEF31C /* StoreFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78911E9CC79700BEF31C /* StoreFileManager.m */; };
+		8EBE789C1E9CC79700BEF31C /* VideoUI.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78931E9CC79700BEF31C /* VideoUI.m */; };
+		8EBE789D1E9CC79700BEF31C /* XDVideocamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78951E9CC79700BEF31C /* XDVideocamera.m */; };
+		8EBE789E1E9CC79700BEF31C /* XDVideoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBE78971E9CC79700BEF31C /* XDVideoManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,20 +56,20 @@
 		8EBE784C1E9CAB1E00BEF31C /* DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EBE78501E9CAB1E00BEF31C /* DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoUITests.m; sourceTree = "<group>"; };
 		8EBE78521E9CAB1E00BEF31C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EBE786B1E9CAE0B00BEF31C /* SelectImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectImageView.h; sourceTree = "<group>"; };
-		8EBE786C1E9CAE0B00BEF31C /* SelectImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectImageView.m; sourceTree = "<group>"; };
-		8EBE786D1E9CAE0B00BEF31C /* SelectLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectLabel.h; sourceTree = "<group>"; };
-		8EBE786E1E9CAE0B00BEF31C /* SelectLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectLabel.m; sourceTree = "<group>"; };
-		8EBE786F1E9CAE0B00BEF31C /* SelectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectView.h; sourceTree = "<group>"; };
-		8EBE78701E9CAE0B00BEF31C /* SelectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectView.m; sourceTree = "<group>"; };
-		8EBE78711E9CAE0B00BEF31C /* StoreFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoreFileManager.h; sourceTree = "<group>"; };
-		8EBE78721E9CAE0B00BEF31C /* StoreFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoreFileManager.m; sourceTree = "<group>"; };
-		8EBE78731E9CAE0B00BEF31C /* VideoUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoUI.h; sourceTree = "<group>"; };
-		8EBE78741E9CAE0B00BEF31C /* VideoUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoUI.m; sourceTree = "<group>"; };
-		8EBE78751E9CAE0B00BEF31C /* XDVideocamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XDVideocamera.h; sourceTree = "<group>"; };
-		8EBE78761E9CAE0B00BEF31C /* XDVideocamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XDVideocamera.m; sourceTree = "<group>"; };
-		8EBE78771E9CAE0B00BEF31C /* XDVideoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XDVideoManager.h; sourceTree = "<group>"; };
-		8EBE78781E9CAE0B00BEF31C /* XDVideoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XDVideoManager.m; sourceTree = "<group>"; };
+		8EBE788A1E9CC79700BEF31C /* SelectImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SelectImageView.h; path = XDVideoCamera/SelectImageView.h; sourceTree = SOURCE_ROOT; };
+		8EBE788B1E9CC79700BEF31C /* SelectImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SelectImageView.m; path = XDVideoCamera/SelectImageView.m; sourceTree = SOURCE_ROOT; };
+		8EBE788C1E9CC79700BEF31C /* SelectLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SelectLabel.h; path = XDVideoCamera/SelectLabel.h; sourceTree = SOURCE_ROOT; };
+		8EBE788D1E9CC79700BEF31C /* SelectLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SelectLabel.m; path = XDVideoCamera/SelectLabel.m; sourceTree = SOURCE_ROOT; };
+		8EBE788E1E9CC79700BEF31C /* SelectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SelectView.h; path = XDVideoCamera/SelectView.h; sourceTree = SOURCE_ROOT; };
+		8EBE788F1E9CC79700BEF31C /* SelectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SelectView.m; path = XDVideoCamera/SelectView.m; sourceTree = SOURCE_ROOT; };
+		8EBE78901E9CC79700BEF31C /* StoreFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StoreFileManager.h; path = XDVideoCamera/StoreFileManager.h; sourceTree = SOURCE_ROOT; };
+		8EBE78911E9CC79700BEF31C /* StoreFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StoreFileManager.m; path = XDVideoCamera/StoreFileManager.m; sourceTree = SOURCE_ROOT; };
+		8EBE78921E9CC79700BEF31C /* VideoUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VideoUI.h; path = XDVideoCamera/VideoUI.h; sourceTree = SOURCE_ROOT; };
+		8EBE78931E9CC79700BEF31C /* VideoUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VideoUI.m; path = XDVideoCamera/VideoUI.m; sourceTree = SOURCE_ROOT; };
+		8EBE78941E9CC79700BEF31C /* XDVideocamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XDVideocamera.h; path = XDVideoCamera/XDVideocamera.h; sourceTree = SOURCE_ROOT; };
+		8EBE78951E9CC79700BEF31C /* XDVideocamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XDVideocamera.m; path = XDVideoCamera/XDVideocamera.m; sourceTree = SOURCE_ROOT; };
+		8EBE78961E9CC79700BEF31C /* XDVideoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XDVideoManager.h; path = XDVideoCamera/XDVideoManager.h; sourceTree = SOURCE_ROOT; };
+		8EBE78971E9CC79700BEF31C /* XDVideoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XDVideoManager.m; path = XDVideoCamera/XDVideoManager.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,14 +163,14 @@
 			isa = PBXGroup;
 			children = (
 				8EBE78801E9CAF6900BEF31C /* XDTools */,
-				8EBE78711E9CAE0B00BEF31C /* StoreFileManager.h */,
-				8EBE78721E9CAE0B00BEF31C /* StoreFileManager.m */,
-				8EBE78731E9CAE0B00BEF31C /* VideoUI.h */,
-				8EBE78741E9CAE0B00BEF31C /* VideoUI.m */,
-				8EBE78751E9CAE0B00BEF31C /* XDVideocamera.h */,
-				8EBE78761E9CAE0B00BEF31C /* XDVideocamera.m */,
-				8EBE78771E9CAE0B00BEF31C /* XDVideoManager.h */,
-				8EBE78781E9CAE0B00BEF31C /* XDVideoManager.m */,
+				8EBE78901E9CC79700BEF31C /* StoreFileManager.h */,
+				8EBE78911E9CC79700BEF31C /* StoreFileManager.m */,
+				8EBE78921E9CC79700BEF31C /* VideoUI.h */,
+				8EBE78931E9CC79700BEF31C /* VideoUI.m */,
+				8EBE78941E9CC79700BEF31C /* XDVideocamera.h */,
+				8EBE78951E9CC79700BEF31C /* XDVideocamera.m */,
+				8EBE78961E9CC79700BEF31C /* XDVideoManager.h */,
+				8EBE78971E9CC79700BEF31C /* XDVideoManager.m */,
 			);
 			name = XDVideoCamera;
 			sourceTree = "<group>";
@@ -178,12 +178,12 @@
 		8EBE78801E9CAF6900BEF31C /* XDTools */ = {
 			isa = PBXGroup;
 			children = (
-				8EBE786B1E9CAE0B00BEF31C /* SelectImageView.h */,
-				8EBE786C1E9CAE0B00BEF31C /* SelectImageView.m */,
-				8EBE786D1E9CAE0B00BEF31C /* SelectLabel.h */,
-				8EBE786E1E9CAE0B00BEF31C /* SelectLabel.m */,
-				8EBE786F1E9CAE0B00BEF31C /* SelectView.h */,
-				8EBE78701E9CAE0B00BEF31C /* SelectView.m */,
+				8EBE788A1E9CC79700BEF31C /* SelectImageView.h */,
+				8EBE788B1E9CC79700BEF31C /* SelectImageView.m */,
+				8EBE788C1E9CC79700BEF31C /* SelectLabel.h */,
+				8EBE788D1E9CC79700BEF31C /* SelectLabel.m */,
+				8EBE788E1E9CC79700BEF31C /* SelectView.h */,
+				8EBE788F1E9CC79700BEF31C /* SelectView.m */,
 			);
 			name = XDTools;
 			sourceTree = "<group>";
@@ -323,16 +323,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EBE789C1E9CC79700BEF31C /* VideoUI.m in Sources */,
+				8EBE78991E9CC79700BEF31C /* SelectLabel.m in Sources */,
+				8EBE789D1E9CC79700BEF31C /* XDVideocamera.m in Sources */,
+				8EBE789B1E9CC79700BEF31C /* StoreFileManager.m in Sources */,
 				8EBE78331E9CAB1E00BEF31C /* ViewController.m in Sources */,
-				8EBE787D1E9CAE0B00BEF31C /* VideoUI.m in Sources */,
-				8EBE787E1E9CAE0B00BEF31C /* XDVideocamera.m in Sources */,
+				8EBE78981E9CC79700BEF31C /* SelectImageView.m in Sources */,
+				8EBE789E1E9CC79700BEF31C /* XDVideoManager.m in Sources */,
 				8EBE78301E9CAB1E00BEF31C /* AppDelegate.m in Sources */,
-				8EBE787C1E9CAE0B00BEF31C /* StoreFileManager.m in Sources */,
-				8EBE787F1E9CAE0B00BEF31C /* XDVideoManager.m in Sources */,
-				8EBE787B1E9CAE0B00BEF31C /* SelectView.m in Sources */,
-				8EBE787A1E9CAE0B00BEF31C /* SelectLabel.m in Sources */,
-				8EBE78791E9CAE0B00BEF31C /* SelectImageView.m in Sources */,
 				8EBE782D1E9CAB1E00BEF31C /* main.m in Sources */,
+				8EBE789A1E9CC79700BEF31C /* SelectView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
