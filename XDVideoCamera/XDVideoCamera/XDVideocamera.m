@@ -324,7 +324,12 @@ typedef void(^PropertyChangeBlock)(AVCaptureDevice *captureDevice);
     }];
 }
 
-//切换摄像头
+
+/**
+ 切换摄像头
+
+ @return 返回bool值用于改变按钮状态
+ */
 - (BOOL)changeBtClick {
     bool isBackground;
     //获取当前设备
@@ -365,7 +370,12 @@ typedef void(^PropertyChangeBlock)(AVCaptureDevice *captureDevice);
     return isBackground;
 }
 
-//开始录制
+
+/**
+ 录制
+
+ @return 返回bool值用于改变按钮状态
+ */
 - (BOOL)videoBtClick {
     //根据设备输出获得链接
     AVCaptureConnection *connection = [self.movieFileOutput connectionWithMediaType:AVMediaTypeVideo];
