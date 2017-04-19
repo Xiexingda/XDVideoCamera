@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  摄像
+//  Demo
 //
-//  Created by 谢兴达 on 2017/3/1.
+//  Created by 谢兴达 on 2017/4/19.
 //  Copyright © 2017年 谢兴达. All rights reserved.
 //
 
