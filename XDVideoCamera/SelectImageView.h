@@ -12,4 +12,6 @@
 
 - (void)tapGestureBlock:(void(^)(id obj))action;
 
+- (void)doubleTapGestureBlock:(void(^)(id obj))action;
+
 @end
