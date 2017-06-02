@@ -34,7 +34,7 @@
     [enterVideo tapGestureBlock:^(id obj) {
         XDVideocamera *video = [[XDVideocamera alloc]init];
         [self presentViewController:video animated:YES completion:^{
-            NSLog(@"进入照相机");
+            NSLog(@"进入摄像机");
         }];
     }];
     [self.view addSubview:enterVideo];
